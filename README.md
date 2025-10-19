@@ -101,7 +101,7 @@ The dataset originates from [Wine Type Classification Dataset](https://www.kaggl
 If you use or reference this repository, please cite:
 
 ```
-Ekman, A., Nyström, E., Anoushirvani, A., & Päären, M. (2025).
+Ekman, A., Nyströmer, E., Anoushirvani, A., & Päären, M. (2025).
 Comparing Neural Networks and Kernel Methods for Binary and Multiclass Wine Classification.
 KTH Royal Institute of Technology.
 ```
