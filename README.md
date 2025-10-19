@@ -4,7 +4,7 @@
 
 **Course:** SF2935 Machine Learning
 **Institution:** KTH Royal Institute of Technology
-**Authors:** Alexander Ekman, Erik Nyström, Adrian Anoushirvani, Martha Päären
+**Authors:** Alexander Ekman, Erik Nyströmer, Adrian Anoushirvani, Martha Päären
 **Contact:** {alekm, erny, adrianan, paaren}@kth.se
 
 ---
